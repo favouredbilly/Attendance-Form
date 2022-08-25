@@ -1,0 +1,13 @@
+.form{
+  width: 500px;
+  background: #55acf3;
+  padding: 1.5em;
+  border-radius: 1em;
+  
+}
+
+.container{
+  padding:20px;
+  justify-content: 'center';
+  align-items: 'center';
+}
